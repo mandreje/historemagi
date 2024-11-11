@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M60 20C60 20 30 40 30 70C30 85 43 97 60 97C77 97 90 85 90 70C90 40 60 20 60 20Z" fill="#FFB800"/>
+  <path d="M60 30C60 30 40 45 40 67.5C40 78.75 49 88 60 88C71 88 80 78.75 80 67.5C80 45 60 30 60 30Z" fill="white"/>
+  <path d="M45 60C45 60 55 70 60 70C65 70 75 60 75 60" stroke="#FFB800" stroke-width="3" stroke-linecap="round"/>
+</svg>
